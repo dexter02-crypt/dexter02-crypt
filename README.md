@@ -2,7 +2,7 @@
 
 I build practical software experiments across **distributed systems, algorithms, supply-chain tooling, data workflows, and computer vision**.
 
-Founder at [KedByte](https://kedbyte.com) · MBA student · Building small systems that are easy to inspect, run, and test.
+Founder at [KedByte](https://kedbyte.com)·Building small systems that are easy to inspect, run, and test.
 
 ## Selected projects
 
